@@ -10,7 +10,7 @@
 
 [简体中文](README.md) | [English](README_EN.md)
 
-<img alt="LOGO" src="https://github.com/Zeal-L/Honkai-Star-Rail-Wallpaper/Offcial/f3f5d58e84398ae37cbfea63649cc69c1340190821.png" style="border-radius:50%">
+<img alt="LOGO" src="https://github.com/Zeal-L/Honkai-Star-Rail-Wallpaper/blob/9cb72e0f19fc92d108059d68699a10fcb69b5edc/Offcial/f3f5d58e84398ae37cbfea63649cc69c1340190821.png">
 
 本仓库收录了从开服前期到现在所有官方发布的精选壁纸以及收录了一些精选的玩家自制（同人）作品
 
@@ -18,7 +18,7 @@
 
 欢迎PR补充
 
-<img alt="EMO" src="https://github.com/Zeal-L/Honkai-Star-Rail-Wallpaper/FanFiction/46zklg5gacza1.png" style="border-radius:50%">
+<img alt="EMO" src="https://github.com/Zeal-L/Honkai-Star-Rail-Wallpaper/blob/9cb72e0f19fc92d108059d68699a10fcb69b5edc/FanFiction/46zklg5gacza1.png" width=30%>
 
 喜欢的话麻烦看在可爱的克拉拉的面子上给个Star吧 (｡･ω･｡)ﾉ♡
 
