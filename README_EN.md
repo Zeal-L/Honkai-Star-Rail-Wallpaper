@@ -22,7 +22,7 @@ If you like it, please give a Star for the sake of the lovely Clara (｡･ω･
 </div>
 
 ## Package Download
-- [Latest Releases](https://github.com/Zeal-L/Honkai-Star-Rail-Wallpaper/releases/latest)
+- [Latest](https://github.com/Zeal-L/Honkai-Star-Rail-Wallpaper/archive/refs/heads/main.zip)
 
 ## Sources
 - [Honkai: Star Rail Official Bilibili](https://space.bilibili.com/1340190821/dynamic)
