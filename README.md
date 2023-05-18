@@ -25,7 +25,7 @@
 </div>
 
 ## 打包下载
-- [最新 Releases](https://github.com/Zeal-L/Honkai-Star-Rail-Wallpaper/releases/latest)
+- [最新](https://github.com/Zeal-L/Honkai-Star-Rail-Wallpaper/archive/refs/heads/main.zip)
 
 ## 来源
 - [崩坏星穹铁道官方B站动态](https://space.bilibili.com/1340190821/dynamic)
